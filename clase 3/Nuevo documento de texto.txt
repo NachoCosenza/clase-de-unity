@@ -1,0 +1,10 @@
+public float speed;
+transform.translate (Vector3.forward * Timi.deleTime * speed);
+
+magicaboxel
+
+version control 
+visula meta files
+
+assat serialtion 
+forse text
